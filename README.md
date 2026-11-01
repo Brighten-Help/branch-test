@@ -1,4 +1,6 @@
 # Lab 8 Branch Practice
 
 Git branch and merge practice.
-hotfix: my solution
+
+hotfix: team's solution
+
